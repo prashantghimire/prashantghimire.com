@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Passionate Software Engineer, problem solver and outside the box thinker.
+subtitle: Software Engineer, Problem solver and Outside the box thinker. Interested in learning new things, mostly related to Software Engineering and Photography.
 
 profile:
   align: right
