@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - prashantghimire
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - prashantghimire/DuckYAML
+  - prashantghimire/2D-maze-java
+  - prashantghimire/batch-os-simulator-using-c
+  - puppeteer/puppeteer
