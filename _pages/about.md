@@ -2,6 +2,7 @@
 layout: about
 title: about
 permalink: /
+description: About Prashant Ghimire
 subtitle: Software Engineer, Problem solver and Outside the box thinker. Interested in learning new things, mostly related to Software Engineering and Photography.
 
 profile:
